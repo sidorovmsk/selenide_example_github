@@ -14,7 +14,7 @@ import org.junit.jupiter.api.Test;
 @Story("Story")
 public class SimpleTest extends TestCore {
     ViewportPage viewportPage = new ViewportPage();
-
+//минута 44; минута 17; 53 секунды
     @Test
     @TmsLink("TmsLink")
     @DisplayName("checkHeaderElementsTest")
